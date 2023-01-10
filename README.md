@@ -7,3 +7,4 @@
 * ✈️  I like traveling to 🇩🇰 denmark, 🇫🇮 finland, 🇳🇴 norway and 🇸🇪 sweden
 * 🎮 I like playing computer games
 * ⚽ I am a fan and member of [1. FC Köln](https://www.fc.de/) (german soccer club)
+* 📡 I am interested in working with [LoRaWAN](https://en.wikipedia.org/wiki/LoRa#LoRaWAN) and [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
